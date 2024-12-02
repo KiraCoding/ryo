@@ -4,6 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-wgpu = "22.1.0"
+wgpu = "23.0.1"
 ryo_engine = { path = "../ryo_engine" }
 ryo_window = { path = "../ryo_window" }
